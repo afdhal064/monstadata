@@ -1,0 +1,46 @@
+// manga.json V1.0 Rev 0
+{
+  "manga_id": "MNC-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": [
+    "A Dragon Hunter's Peerless Regression",
+    "Yongsaljaui Choegang Hoegwi",
+    "용살자의 최강 회귀"
+  ],
+  "status": "Ongoing",
+  "author": "Bobe",
+  "artist": "Sake",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Pahlawan umat manusia dan pembunuh naga terkuat gugur dalam pertempuran terakhir melawan Raja Naga. Namun, alih-alih mati, ia justru kembali ke masa lalu saat dirinya masih menjadi seorang kadet akademi. Berbekal ingatan, pengalaman tempur, dan teknik dari kehidupan sebelumnya, ia bersumpah untuk mengubah masa depan dan membantai semua naga sebelum mereka menghancurkan dunia.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Regresi Sang Pembunuh Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-001/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-001/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-001/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-001/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Pembangkitan Mana",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-002/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-002/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-002/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic-Storage/assets/main/MNC-001/ch-002/004.jpg"
+      ]
+    }
+  ]
+}
